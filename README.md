@@ -55,7 +55,7 @@ The implementation is strictly mapped to the system's design documents:
 
 | Student ID | Name | Email |
 | :--- | :--- | :--- |
-| 20242148 | Sara Ali Refaey Abdelhamed (Lead) | 20242148@stud.fci-cu.edu.eg |
+| 20242148 | Sara Ali Refaey Abdelhamed  | 20242148@stud.fci-cu.edu.eg |
 | 20242048 | Alaa Khaled Kamel | 20242048@stud.fci-cu.edu.eg |
 | 20242116 | Dalia Samy Abd El-Aziz | 20242116@stud.fci-cu.edu.eg |
 | 20242150 | Sarah Mohamed Salah El-Din | 20242150@stud.fci-cu.edu.eg |
