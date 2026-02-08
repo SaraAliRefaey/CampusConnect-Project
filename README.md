@@ -18,7 +18,6 @@ The project is built using Java and follows a robust architectural design to ens
 ---
 
 ## 🏗️ Architectural Design
-
 ### 1. MVC Pattern (Model-View-Controller)
 * Models: Data structures (e.g., Student class).
 * Views (Boundaries): UI components such as the LoginScreen.
